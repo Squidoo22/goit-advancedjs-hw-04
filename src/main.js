@@ -11,7 +11,7 @@ const refs = {
   input: document.querySelector('.js-search-input'),
   submitButton: document.querySelector('.js-search-button'),
   gallery: document.querySelector('.js-gallery'),
-  loader: document.querySelector('.js-loader'),
+  loader: document.querySelector('.loader'),
   loadMoreButton: document.querySelector('.js-load-more-button'),
 };
 
